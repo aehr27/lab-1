@@ -1,0 +1,8 @@
+Questions
+
+#1 - The two statements are not technically equivalent. The order affects which geometry type is the primary input, effecting the order of the attribute structure. If the data dealt with lines instead of points, the line could break into different segments depending on the order. The attribute data would typically remain constant, but the spatial data might not.
+
+#2 - In general I got very overwhelemed by how many different ways things could be accomplished. If I got stuck and tried to look for outside help, I usually ended up more confused than I started. Navigating the data in RStudio was also difficult - I ended up opening the attribute tables in Arc. 
+     I understand what steps I need to take for the basic data/spatial analysis, it's just remebering which statements to use that is difficult. They all still seem new, but the 'cheat sheets' helped. 
+
+#3 - Analyzing forest loss using satellite imagery, assessing carbon sequestration potential, or looking at the intersection between poverty levels and climate change risk would all be interesting projects!
